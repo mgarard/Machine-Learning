@@ -1,1 +1,5 @@
-https://github.com/mgarard/Machine-Learning.git
+I've taken Coursera's Machine Learning Class and I'm currently taking Professor Ng's Deep Learning course.
+
+I would post my course work but the TOA is that we don't post course work to keep it fair.
+
+Here I'm working on personal projects independent of the course.  My time is spent between machine learning and data science.
