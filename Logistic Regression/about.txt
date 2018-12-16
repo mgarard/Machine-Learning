@@ -1,3 +1,5 @@
 This is beginning of a project but included is a custom logistic regression in python that I've written to ensure my understanding of the structure.
 
 1 project is planned to combine this with an active data science project.  Check back later for additions.
+
+Updated 12/16/2018
